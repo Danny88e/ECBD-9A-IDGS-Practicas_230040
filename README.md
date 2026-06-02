@@ -11,4 +11,4 @@ Este repositorio contendrá los resultados de las prácticas de la materia para 
 
 |Número|Descripción|Potenciador|Estatus|
 |---|---|---|---|
-|1.|Practica 3|37|Pendiente|
+|1.|[PRACTICA 03: Analisis de Datos Exploratoriocon Python y Jupiter Notebook](Practica%203/AnalisisDatos.ipynb)|37|Completado|

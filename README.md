@@ -11,4 +11,4 @@ Este repositorio contendrá los resultados de las prácticas de la materia para 
 
 |Número|Descripción|Potenciador|Estatus|
 |---|---|---|---|
-|1.|Practica 3|N/A|Pendiente|
+|1.|Practica 3|37|Pendiente|

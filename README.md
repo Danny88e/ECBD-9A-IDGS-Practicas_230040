@@ -14,3 +14,4 @@ Este repositorio contendrá los resultados de las prácticas de la materia para 
 |1.|[PRACTICA 03: Analisis de Datos Exploratoriocon Python y Jupiter Notebook](Practica%203/AnalisisDatos.ipynb)|37|Completado|
 |2.|[PRACTICA 03: Analisis de Datos Exploratoriocon Python y Jupiter Notebook](Practica%203/AnalisisDatos.ipynb)|50|Completado|
 |3.|[PRACTICA 04: Limpieza de Datos y Preprocesamiento](Practica%204/Practica04.ipynb)|63|Completada|
+|4.|[PRACTICA 05: Generación de Dataset de Pacientes con indicadores para el cálculo de riesgo de Infarto Cardíaco en Puebla](Practica%205/pacientes_puebla.csv)|||

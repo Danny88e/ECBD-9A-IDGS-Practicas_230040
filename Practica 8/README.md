@@ -25,10 +25,11 @@ Construir un **Scatter Plot 3D interactivo** con Plotly que visualice las estad�
 ```
 Practica 8/
 ├── Practica08.ipynb                        # Notebook principal con toda la práctica
-├── pokemon_scatter3d_interactivo.html      # Visualización exportada (se genera al ejecutar)
+├── pokemon_scatter3d_sprites.html          # Visualización 3D interactiva (sprites embebidos en Base64)
 ├── README.md                               # Este archivo
 └── Repositorio Dataset de Pokemones/
     ├── Pokemon.csv                         # Dataset principal (1,216 registros)
+    ├── Pokemon Images/                     # Dataset de imágenes locales para la visualización
     ├── Pokemon.xlsx
     ├── gen01.csv ... gen09.csv             # Datasets por generación
     ├── PokemonData.zip
@@ -61,7 +62,7 @@ pip install pandas numpy plotly openpyxl
 2. Navegar a la carpeta `Practica 8/`
 3. Abrir `Practica08.ipynb`
 4. Seleccionar **Kernel → Restart & Run All**
-5. La visualización HTML se generará como `pokemon_scatter3d_interactivo.html`
+5. La visualización HTML se generará como `pokemon_scatter3d_sprites.html`
 
 ---
 
@@ -142,9 +143,9 @@ Se construye la URL en base al ID de la Pokédex Nacional de cada Pokémon. Los 
 
 ## 📤 Exportación HTML
 
-El archivo `pokemon_scatter3d_interactivo.html` se genera al ejecutar la celda de exportación. Este archivo:
-- Es **autocontenido** (usa Plotly CDN)
-- Pesa aproximadamente **300-800 KB**
+El archivo `pokemon_scatter3d_sprites.html` se genera al ejecutar la celda de exportación. Este archivo:
+- Es **autocontenido** (incrusta sprites locales en Base64)
+- Pesa aproximadamente **1.5 MB**
 - Funciona en cualquier navegador moderno sin instalación adicional
 - Conserva todas las funciones interactivas: rotación 3D, zoom, hover, filtros y exportación de imagen
 

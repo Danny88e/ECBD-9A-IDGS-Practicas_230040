@@ -151,4 +151,12 @@ El archivo `pokemon_scatter3d_sprites.html` se genera al ejecutar la celda de ex
 
 ---
 
+## 📈 Resultados Obtenidos
+
+![Evidencia 1](Practica%208%20evidencia%201.png)
+<br>
+![Evidencia 2](Practica%208%20evidencia%202.png)
+
+---
+
 *Práctica 08 completada — Luis Daniel Suárez Escamilla — Matrícula 230040 — ECBD 9A-IDGS — Agosto 2026*

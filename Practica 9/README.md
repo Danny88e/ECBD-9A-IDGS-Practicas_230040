@@ -1,8 +1,8 @@
 # 🧠 Práctica 09: Algoritmos de Análisis No Supervisado
 
-[![Open in nbviewer](https://img.shields.io/badge/Render-nbviewer-orange.svg?style=for-the-badge&logo=jupyter)](https://nbviewer.org/github/Danny88e/ECBD-9A-IDGS-Practicas_230040/blob/main/Practica%209/practica09.ipynb)
+[![View in HTMLPreview](https://img.shields.io/badge/Render-HTMLPreview-blue.svg?style=for-the-badge&logo=html5)](https://htmlpreview.github.io/?https://github.com/Danny88e/ECBD-9A-IDGS-Practicas_230040/blob/main/Practica%209/practica09.html)
 
-> **Nota de Visualización:** Si GitHub tiene problemas para cargar las gráficas de este notebook debido a su tamaño, haz clic en el botón naranja de arriba (**Render nbviewer**) para visualizar el documento completo al instante.
+> **Nota de Visualización:** Debido a problemas con el tamaño y renderizado en GitHub (y límites de API de NBViewer), se ha generado una versión en HTML del notebook. Puedes verla con todas las gráficas haciendo clic en el botón azul de arriba o descargando el archivo `practica09.html` y abriéndolo en tu navegador.
 
 ## 📋 Información General
 
